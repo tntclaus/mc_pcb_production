@@ -1,0 +1,8 @@
+name: dlp-pcb-fixtures
+dependencies:
+  - python=3.9
+  - matplotlib
+  - pip
+  - pip:
+    - ezdxf
+    - pythonnet
