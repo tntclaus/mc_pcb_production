@@ -1,0 +1,5 @@
+= Подготовка gerber для SLA принтера
+:photonic-etcher: https://github.com/Andrew-Dickinson/photonic-etcher
+:photonic-etcher-demo: https://andrew-dickinson.github.io/photonic-etcher
+
+Используется стандартный экспорт в Gerber, затем получившиеся файлы преобразуются в формат 3D принтера в приложении {photonic-etcher-demo}[PhotonicEtcher].
